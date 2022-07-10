@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=AcademicCourse
+comment0.text=AcademicCourse\ class\ is\ a\ subclass\ of\ the\ Course\ class\r\n\ It\ inherits\ various\ methods\ from\ the\ parent\ class\r\n\ \r\n
+comment1.params=courseID\ courseName\ duration\ level\ credit\ numberOfAssessments
+comment1.target=AcademicCourse(java.lang.String,\ java.lang.String,\ int,\ java.lang.String,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getLecturerName()
+comment3.params=
+comment3.target=int\ getNumberOfAssessments()
+comment4.params=
+comment4.target=boolean\ getIsRegistered()
+comment5.params=lecturer
+comment5.target=void\ setLecturerName(java.lang.String)
+comment6.params=assessments
+comment6.target=void\ setNumberOfAssessments(int)
+comment7.params=courseLeader\ lecturerName\ startingDate\ completionDate
+comment7.target=void\ register(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment8.params=
+comment8.target=void\ display()
+numComments=9
